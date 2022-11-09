@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.esper.utility",
+    "sha256_cert_fingerprints": ["3E:88:67:D0:8D:1E:ED:47:7E:92:72:03:E0:C9:B2:EF:A8:3A:06:FD:0C:43:7D:F0:AE:2F:51:E7:6B:07:51:05"]
+  }
+}]
