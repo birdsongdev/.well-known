@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "io.esper.mhalive",
+    "package_name": "com.mha.live",
     "sha256_cert_fingerprints":
     ["DD:7D:45:D9:A1:25:F7:B8:A8:FA:85:AE:55:60:3D:C7:C0:A5:0B:D5:B1:68:83:DF:05:C2:FE:D9:2A:DD:1A:00"]
   }
